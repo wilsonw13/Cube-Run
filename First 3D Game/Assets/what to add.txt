@@ -1,9 +1,0 @@
-What to Add to Make the Game Better
-
-- Add a level counter
-- Add a death counter
-- Add animations to the menu and end scenes to make it look cooler
-- Allow controls using arrow keys
-- Make it so that you can't beat the level and then have to restart because you fell to the ground
-- Make it so you can't beat the level by pushing an obstacle into the end
-- Make it so you can't cheese the levels by the sides
